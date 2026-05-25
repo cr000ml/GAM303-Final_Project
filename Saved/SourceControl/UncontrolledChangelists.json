@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/Maps/TestEnvironment.umap",
+				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/Inputs/Mapping_Player.uasset",
+				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/Inputs/Input_Movement.uasset",
+				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/Inputs/Input_Look.uasset",
+				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/Inputs/Input_Interact.uasset",
+				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/Inputs/Input_Jump.uasset",
+				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/Player/BP_PlayerChar.uasset",
+				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/Player/BP_PlayerCont.uasset",
+				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/Player/BP_GameMode.uasset"
+			]
+		}
+	]
+}
