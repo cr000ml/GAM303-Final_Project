@@ -13,7 +13,11 @@
 				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/Inputs/Input_Jump.uasset",
 				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/Player/BP_PlayerChar.uasset",
 				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/Player/BP_PlayerCont.uasset",
-				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/Player/BP_GameMode.uasset"
+				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/Player/BP_GameMode.uasset",
+				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/Interactables/BP_Collectible_Pickup.uasset",
+				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/Interactables/Key2.uasset",
+				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/Interfaces/Interface_Interaction.uasset",
+				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/Interactables/BP_PhysicsPickup.uasset"
 			]
 		}
 	]
