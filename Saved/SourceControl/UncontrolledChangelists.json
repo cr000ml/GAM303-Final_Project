@@ -17,7 +17,23 @@
 				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/Interactables/BP_Collectible_Pickup.uasset",
 				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/Interactables/Key2.uasset",
 				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/Interfaces/Interface_Interaction.uasset",
-				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/Interactables/BP_PhysicsPickup.uasset"
+				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/Interactables/BP_PhysicsPickup.uasset",
+				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/Interactables/BP_SlidingDoor.uasset",
+				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/Interactables/Platforms/M_Platform.uasset",
+				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/Interactables/Platforms/BP_Platform.uasset",
+				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/Interactables/Platforms/BP_SafeLocation.uasset",
+				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/Interactables/Platforms/BP_KillZone.uasset",
+				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/Player/BP_HUD.uasset",
+				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/VisualEffects/M_ScreenBlur.uasset",
+				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/Player/Player_Widgets/WBP_TickCounter.uasset",
+				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/EngineFonts/Dracutaz.uasset",
+				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/Fonts/Oi-Regular.uasset",
+				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/Fonts/Oi-Regular_Font.uasset",
+				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/VisualEffects/M_Raindrops.uasset",
+				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/VisualEffects/MI_Raindrops.uasset",
+				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/VisualEffects/rain_drip_mask.uasset",
+				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/VisualEffects/rain_drips.uasset",
+				"C:/Users/chris/OneDrive - SNHU/School/GAM 303 - Design of Virtual Game Env/GAM303_Project_Romleski/GAM303_Project/Content/VisualEffects/rain_drops.uasset"
 			]
 		}
 	]
